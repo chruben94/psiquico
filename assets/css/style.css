@@ -1,0 +1,25 @@
+body {
+    background-color: brown;
+}
+
+div {
+    width: 600px;
+    background-color: white;
+    margin: auto;
+    font-size: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
+#title {
+        font-size: 40px;
+        padding: 30px;
+        text-align: center;
+}
+
+#instructions {
+font-size: 25px;
+text-align: center;
+padding: 25px;
+}
+
